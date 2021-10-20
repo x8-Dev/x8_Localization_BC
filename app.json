@@ -1,0 +1,32 @@
+{
+  "id": "b62f1d7c-21b7-4b52-8114-0f177e2cd97f",
+  "name": "X8_Localization_Mark",
+  "publisher": "X8 Mark",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies":[
+     {
+       "id": "614db805-9f96-4444-8df8-ca4994b10d4c",
+       "name": "X8_Localization_Rickcel", 
+       "publisher": "X8 Rickcel", 
+       "version": "1.0.0.0"
+      }
+      ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
